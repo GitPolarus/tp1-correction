@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "sofia lt";
+  src: url("../fonts/Sofia/Sofia-Regular.ttf");
+}
+
+h1 {
+  font-size: 50px;
+  text-decoration: underline;
+  text-decoration-color: blue;
+  font-style: italic;
+  font-weight: 900;
+  letter-spacing: 20px;
+  font-family: "sofia lt", cursive;
+  width: 400px;
+  height: 400px;
+  background-color: beige;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+p {
+  line-height: 60px;
+  width: 400px;
+  height: 400px;
+  background-color: rgb(120, 120, 0);
+  border: 1px solid rgb(0, 109, 26);
+  display: inline-block;
+}

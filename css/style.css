@@ -1,0 +1,44 @@
+body {
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+
+header {
+  background-color: #882d60;
+  height: 10vh;
+  padding: 10px;
+}
+
+header h1 {
+  text-align: center;
+}
+
+main {
+  background-image: url("../img/fond-silhouettes-palmiers-colores_23-2148541792.webp");
+  height: 70vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+main p {
+  width: 50vw;
+  text-align: justify;
+}
+
+footer {
+  background-color: #2d882d;
+  height: 10vh;
+}
+
+h2 {
+  background-color: black;
+  height: 200px;
+  width: 300px;
+}
+
+span {
+  background-color: rgb(193, 3, 3);
+  height: 200px;
+  width: 300px;
+}
